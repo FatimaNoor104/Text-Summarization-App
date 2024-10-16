@@ -26,3 +26,5 @@ The app interface is designed to be simple and user-friendly. It consists of:
 
 ## Results
 After entering the desired text and clicking the "Summarize" button, the app will display a concise summary based on the input. The results will help users quickly grasp the main points of lengthy texts.
+![image](https://github.com/user-attachments/assets/a77c89e3-3bcf-4625-b7d3-82116a5ffb78)
+![image](https://github.com/user-attachments/assets/0c4bf314-42c7-47c8-8da2-58a2968ef63e)
