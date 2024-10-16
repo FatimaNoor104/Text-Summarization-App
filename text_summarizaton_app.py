@@ -2,7 +2,7 @@ import streamlit as st
 from transformers import pipeline
 
 # Load the summarization model from Hugging Face
-summarizer = pipeline("summarization")
+summarizer = pipeline("summarization",model="sshleifer/distilbart-cnn-12-6")
 
 # Set up the Streamlit app
 st.title("Text Summarization App")
